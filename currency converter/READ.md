@@ -1,0 +1,1 @@
+This project is a full stack web-based Currency Converter built using Python (Flask) for the backend and HTML, CSS, JavaScript for the frontend. It uses real-time data from a currency exchange API and demonstrates my skills in backend development, frontend UI/UX, and integrating APIs into a working web application.
